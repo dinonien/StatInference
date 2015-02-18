@@ -1,0 +1,36 @@
+---
+title: "Part2"
+author: "Dino Nienhold"
+date: "Wednesday, February 18, 2015"
+output: pdf_document
+---
+
+#Introduction
+This report is part two of the peer assessment of the statistical inference class on coursera. The second part is considering confidence intervals and hypothesis.
+
+#Dataset
+The dataset which is analyzed in this report is the ToothGrowth dataset of the R system. This dataset is based on Bliss (1952) and describes "The Effect of Vitamin C on Tooth Growth in Guinea Pigs". 10 guinea pigs receive three does levels of Vitamin C at each with two delivery methods and the response is the length of odentoblasts (Bliss, 1952).
+There are 60 observations in the dataset with 3 variables:
+Column 1: len  - Describes the tooth length
+Column 2: supp factor - Describes the supplement type (VC or OJ), Orange juice or absorbic acid
+Column 3: dose - Describes the dose in milligrams
+
+#Exploratory Data Analysis
+
+Summary Statistics
+NAs
+Outliers
+Boxplots
+Histograms -> Distribution Normal?
+
+#Comparison of tooth growth by supp and dose
+Use confidence intervals and/or hypothesis tests to compare tooth growth by supp and dose
+
+#Conclusion
+State your conclusions and the assumptions needed for your conclusion
+
+#References
+
+C. I. Bliss (1952) The Statistics of Bioassay. Academic Press
+
+McNeil, D. R. (1977) Interactive Data Analysis. New York: Wiley.
